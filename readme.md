@@ -1,4 +1,15 @@
-# Interesting movies all can watch 🎥
+<h1 align="center">   Interesting movies all can watch 🎥 </h1>
+<div align="center">
+<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/learn-anything/movies/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+<h1 align="center"> Description 📕</h1>
+
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting movies one can watch.
 
@@ -11,7 +22,8 @@ Pull requests are welcome. Thank you. 💙
 - [true film 🤖](https://www.reddit.com/r/TrueFilm/)
 - [movie suggestions 🤖](https://www.reddit.com/r/MovieSuggestions/)
 
-# Movies 
+<h1 align="center">   Movies </h1>
+
 
 # thought provoking
 

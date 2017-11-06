@@ -156,3 +156,6 @@ Pull requests are welcome. Thank you. 💜
 - [gone girl](https://letterboxd.com/film/gone-girl/)
 - [the shining](https://letterboxd.com/film/the-shining/)
 
+## Contribute 
+If you found a movie that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
+

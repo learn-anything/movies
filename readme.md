@@ -1,4 +1,4 @@
-# Interesting movies all can watch [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Interesting movies all can watch [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://www.patreon.com/learnanything) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 This is a curated list of all the interesting movies one can watch.
 
 Pull requests are welcome. Thank you. 💜

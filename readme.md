@@ -1,9 +1,7 @@
-# Interesting movies all can watch 🎥 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Interesting movies all can watch [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+This is a curated list of all the interesting movies one can watch.
 
-## Description 📕
-Here is a curated list of all the interesting movies one can watch.
-
-Pull requests are welcome. Thank you. 💙
+Pull requests are welcome. Thank you. 💜
 
 ### Related websites / repositories 
 - [movies for hackers](https://github.com/k4m4/movies-for-hackers)

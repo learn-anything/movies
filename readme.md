@@ -4,10 +4,10 @@ This is a curated list of all the interesting movies one can watch.
 Pull requests are welcome. Thank you. 💜
 
 ### Related websites / repositories 
-- [movies for hackers](https://github.com/k4m4/movies-for-hackers)
-- [letterbox](https://letterboxd.com/)
-- [true film 🤖](https://www.reddit.com/r/TrueFilm/)
-- [movie suggestions 🤖](https://www.reddit.com/r/MovieSuggestions/)
+- [Movies for hackers](https://github.com/k4m4/movies-for-hackers)
+- [Letterbox](https://letterboxd.com/)
+- [True Film subreddit](https://www.reddit.com/r/TrueFilm/)
+- [Movie suggestions subreddit](https://www.reddit.com/r/MovieSuggestions/)
 
 ## Movies
 ### Thought provoking

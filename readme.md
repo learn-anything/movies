@@ -1,5 +1,5 @@
-# Interesting Movies [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
+# Interesting Movies [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists-) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+*Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
 
 ## Thought provoking
 - [The man from Earth](https://letterboxd.com/film/the-man-from-earth/)
@@ -153,8 +153,11 @@
 - [True Film subreddit](https://www.reddit.com/r/TrueFilm/)
 - [Movie suggestions subreddit](https://www.reddit.com/r/MovieSuggestions/)
 
+## Contributing
+See [contribution guidelines](contributing.md/#contribution-guidelines).
+
 ## More lists 📝
-For more lists like this, see [here](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
+For more lists like this, see [here](https://github.com/learn-anything/curated-lists#curated-lists-).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

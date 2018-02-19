@@ -149,7 +149,7 @@
 
 ## Related
 - [Movies for hackers](https://github.com/k4m4/movies-for-hackers)
-- [Letterbox](https://letterboxd.com/)
+- [Letterboxd](https://letterboxd.com/)
 - [True Film subreddit](https://www.reddit.com/r/TrueFilm/)
 - [Movie suggestions subreddit](https://www.reddit.com/r/MovieSuggestions/)
 

@@ -148,8 +148,8 @@
 - [The shining](https://letterboxd.com/film/the-shining/)
 
 ## Related
-- [Movies for hackers](https://github.com/k4m4/movies-for-hackers)
-- [Letterboxd](https://letterboxd.com/)
+- [Letterboxd](https://letterboxd.com/) - Social network for sharing your taste in film.
+- [Movies for hackers](https://github.com/k4m4/movies-for-hackers#readme)
 - [True Film subreddit](https://www.reddit.com/r/TrueFilm/)
 - [Movie suggestions subreddit](https://www.reddit.com/r/MovieSuggestions/)
 

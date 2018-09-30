@@ -136,6 +136,7 @@
 - [True Film subreddit](https://www.reddit.com/r/TrueFilm/)
 
 ## Scifi
+
 - [2001: a space odyssey](https://letterboxd.com/film/2001-a-space-odyssey/)
 - [Alien](https://letterboxd.com/film/alien/)
 - [Arrival](https://letterboxd.com/film/arrival-2016/)
@@ -162,7 +163,7 @@
 - [Good Will Hunting](https://letterboxd.com/film/good-will-hunting/)
 - [Mr. Nobody](https://letterboxd.com/film/mr-nobody/)
 - [Stalker](https://letterboxd.com/film/stalker/)
-- [Synecdoche,  New York](https://letterboxd.com/film/synecdoche-new-york/)
+- [Synecdoche, New York](https://letterboxd.com/film/synecdoche-new-york/)
 - [The fountain](https://letterboxd.com/film/the-fountain/)
 - [The man from Earth](https://letterboxd.com/film/the-man-from-earth/)
 - [The master](https://letterboxd.com/film/the-master-2012/)
@@ -178,5 +179,5 @@
 
 ---
 
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)

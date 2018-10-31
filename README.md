@@ -177,6 +177,7 @@
 - [Gone girl](https://letterboxd.com/film/gone-girl/)
 - [Shutter island](https://letterboxd.com/film/shutter-island/)
 - [The shining](https://letterboxd.com/film/the-shining/)
+- [Ocean's 8](https://letterboxd.com/film/oceans-eight/)
 
 ---
 

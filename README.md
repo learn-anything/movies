@@ -11,10 +11,10 @@
 - [Animation](#animation)
 - [Comedy](#comedy)
 - [Drama](#drama)
-- [Related](#related)
 - [Scifi](#scifi)
 - [Thought provoking](#thought-provoking)
 - [Thriller](#thriller)
+- [Related](#related)
 
 ---
 
@@ -109,8 +109,6 @@
 - [Silence of the lambs](https://letterboxd.com/film/the-silence-of-the-lambs/)
 - [Sing Street](https://letterboxd.com/film/sing-street/)
 - [Taxi driver](https://letterboxd.com/film/taxi-driver/)
-- [The King’s speech](https://letterboxd.com/film/the-kings-speech/)
-- [The Shawshank redemption](https://letterboxd.com/film/the-shawshank-redemption/)
 - [The aviator](https://letterboxd.com/film/the-aviator/)
 - [The boy in the striped pyjamas](https://letterboxd.com/film/the-boy-in-the-striped-pyjamas/)
 - [The dark knight](https://letterboxd.com/film/the-dark-knight/)
@@ -119,22 +117,17 @@
 - [The grand budapest hotel](https://letterboxd.com/film/the-grand-budapest-hotel/)
 - [The imitation game](https://letterboxd.com/film/the-imitation-game/)
 - [The intouchables](https://letterboxd.com/film/the-intouchables/)
+- [The King’s speech](https://letterboxd.com/film/the-kings-speech/)
 - [The lives of others](https://letterboxd.com/film/the-lives-of-others/)
 - [The perk of being a wallflower](https://letterboxd.com/film/the-perks-of-being-a-wallflower/)
 - [The revenant](https://letterboxd.com/film/the-revenant-2015/)
+- [The Shawshank redemption](https://letterboxd.com/film/the-shawshank-redemption/)
 - [The social network](https://letterboxd.com/film/the-social-network/)
 - [The spectacular now](https://letterboxd.com/film/the-spectacular-now/)
 - [Trainspotting](https://letterboxd.com/film/trainspotting/)
 - [V for Vendetta](https://letterboxd.com/film/v-for-vendetta/)
 - [Warrior](https://letterboxd.com/film/warrior/)
 - [Whiplash](https://letterboxd.com/film/whiplash-2014/)
-
-## Related
-
-- [Letterboxd](https://letterboxd.com/) - Social network for sharing your taste in film.
-- [Movie suggestions subreddit](https://www.reddit.com/r/MovieSuggestions/)
-- [Movies for hackers](https://github.com/k4m4/movies-for-hackers#readme)
-- [True Film subreddit](https://www.reddit.com/r/TrueFilm/)
 
 ## Scifi
 
@@ -177,6 +170,13 @@
 - [Gone girl](https://letterboxd.com/film/gone-girl/)
 - [Shutter island](https://letterboxd.com/film/shutter-island/)
 - [The shining](https://letterboxd.com/film/the-shining/)
+
+## Related
+
+- [Letterboxd](https://letterboxd.com/) - Social network for sharing your taste in film.
+- [Movie suggestions subreddit](https://www.reddit.com/r/MovieSuggestions/)
+- [Movies for hackers](https://github.com/k4m4/movies-for-hackers#readme)
+- [True Film subreddit](https://www.reddit.com/r/TrueFilm/)
 
 ---
 

@@ -153,15 +153,21 @@
 
 ## Thought provoking
 
+- [A Ghost Story](https://letterboxd.com/film/a-ghost-story-2017/)
 - [A serious man](https://letterboxd.com/film/a-serious-man/)
+- [Certified Copy](https://letterboxd.com/film/certified-copy/)
 - [Good Will Hunting](https://letterboxd.com/film/good-will-hunting/)
 - [Mr. Nobody](https://letterboxd.com/film/mr-nobody/)
+- [Open Your Eyes](https://letterboxd.com/film/open-your-eyes/)
+- [Seventh Seal](https://letterboxd.com/film/the-seventh-seal/)
 - [Stalker](https://letterboxd.com/film/stalker/)
 - [Synecdoche, New York](https://letterboxd.com/film/synecdoche-new-york/)
 - [The fountain](https://letterboxd.com/film/the-fountain/)
 - [The man from Earth](https://letterboxd.com/film/the-man-from-earth/)
 - [The master](https://letterboxd.com/film/the-master-2012/)
 - [The sunset limited](https://letterboxd.com/film/the-sunset-limited/)
+- [To the Wonder](https://letterboxd.com/film/to-the-wonder/)
+- [Upstream Color](https://letterboxd.com/film/upstream-color/)
 - [Waking life](https://letterboxd.com/film/waking-life/)
 
 ## Thriller

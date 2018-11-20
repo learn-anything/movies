@@ -168,6 +168,7 @@
 - [The Sixth Sense](https://letterboxd.com/film/the-sixth-sense/)
 - [The Sunset Limited](https://letterboxd.com/film/the-sunset-limited/)
 - [To the Wonder](https://letterboxd.com/film/to-the-wonder/)
+- [Tree of Life](https://letterboxd.com/film/the-tree-of-life-2011/)
 - [Upstream Color](https://letterboxd.com/film/upstream-color/)
 - [Waking life](https://letterboxd.com/film/waking-life/)
 

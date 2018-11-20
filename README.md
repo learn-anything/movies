@@ -165,6 +165,7 @@
 - [The Fountain](https://letterboxd.com/film/the-fountain/)
 - [The Man From Earth](https://letterboxd.com/film/the-man-from-earth/)
 - [The Master](https://letterboxd.com/film/the-master-2012/)
+- [The Sixth Sense](https://letterboxd.com/film/the-sixth-sense/)
 - [The Sunset Limited](https://letterboxd.com/film/the-sunset-limited/)
 - [To the Wonder](https://letterboxd.com/film/to-the-wonder/)
 - [Upstream Color](https://letterboxd.com/film/upstream-color/)

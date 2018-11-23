@@ -46,7 +46,7 @@
 
 ## Comedy
 
-- [Dr. Strangelove or: how i learned to stop worrying and love the bomb](https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/)
+- [Dr. Strangelove or: how i learned to stop worrying and love the bomb](https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/)
 - [Hot Fuzz](https://letterboxd.com/film/hot-fuzz/)
 - [Office Space](https://letterboxd.com/film/office-space/)
 - [Shaun of the Dead](https://letterboxd.com/film/shaun-of-the-dead/)
@@ -142,6 +142,7 @@
 - [Gravity](https://letterboxd.com/film/gravity-2013/)
 - [Her](https://letterboxd.com/film/her/)
 - [Interstellar](https://letterboxd.com/film/interstellar/)
+- [La Jetée](https://letterboxd.com/film/la-jetee/)
 - [Looper](https://letterboxd.com/film/looper/)
 - [Minority Report](https://letterboxd.com/film/minority-report/)
 - [Moon](https://letterboxd.com/film/moon/)
@@ -171,6 +172,7 @@
 - [Tree of Life](https://letterboxd.com/film/the-tree-of-life-2011/)
 - [Upstream Color](https://letterboxd.com/film/upstream-color/)
 - [Waking life](https://letterboxd.com/film/waking-life/)
+- [Wings of Desire](https://letterboxd.com/film/wings-of-desire/) 
 
 ## Thriller
 

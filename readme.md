@@ -50,6 +50,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [The Wolf of Wall Street](https://letterboxd.com/film/the-wolf-of-wall-street/)
 - [Ticker and Dale vs Evil](https://letterboxd.com/film/tucker-and-dale-vs-evil/)
 - [Tropic Thunder](https://letterboxd.com/film/tropic-thunder/)
+- [Monty Python and the Holy Grail](https://letterboxd.com/film/monty-python-and-the-holy-grail/)
 
 ## Drama
 

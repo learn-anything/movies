@@ -65,7 +65,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Birdman](https://letterboxd.com/film/birdman/)
 - [Black Swan](https://letterboxd.com/film/black-swan/)
 - [Blood Diamond](https://letterboxd.com/film/blood-diamond/)
-- [Call Me if You Can](https://letterboxd.com/film/catch-me-if-you-can-2002/)
+- [Catch Me if You Can](https://letterboxd.com/film/catch-me-if-you-can-2002/)
 - [City of God](https://letterboxd.com/film/city-of-god/)
 - [Dallas Buyers Club](https://letterboxd.com/film/dallas-buyers-club/)
 - [Dead Poets Society](https://letterboxd.com/film/dead-poets-society/)
